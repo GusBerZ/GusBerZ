@@ -52,7 +52,7 @@ Automates cleanup and update tasks in Windows environments.
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:gustavohsbermudez@gmail.com)
 
 ---
 
