@@ -49,12 +49,6 @@ Automates cleanup and update tasks in Windows environments.
 
 ---
 
-## 📊 GitHub Stats
-
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GusBerZ&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
