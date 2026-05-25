@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=green)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
