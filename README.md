@@ -51,7 +51,7 @@ Automates cleanup and update tasks in Windows environments.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-bermudez-9b9a9847/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:gustavohsbermudez@gmail.com)
 
 ---
