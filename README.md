@@ -1,34 +1,36 @@
 
 # 👋 Hi, I'm Gustavo Bermudez
 
-💻 IT Support Professional  
+💻 IT Support Specialist  
+🔐 Focused on Cybersecurity & Automation  
 📍 Belo Horizonte - Brazil  
-🎯 Transitioning to Cybersecurity
 
 ---
 
-## 🚀 About me
+## 🚀 About Me
 
-I work with IT support, troubleshooting and maintaining Windows environments.
+I currently work with IT support, solving technical issues and maintaining Windows environments.
 
-I’m interested in automation, cybersecurity and process improvement.
-
----
-
-## 🛠️ Technologies and Tools
-
-- Windows Environment Support
-- IT Service Management (ServiceNow, Zendesk)
-- Automation Scripts (.bat)
-- Basic Networking
-- Git / GitHub
-
-
+I am focused on growing into Cybersecurity or DevOps, with emphasis on automation and system optimization.
 
 ---
 
-## 📂 Projects
-🚧 Work in progress...
+## 🛠️ Tech Stack
+
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
+![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📂 Featured Projects
+
+### 🔧 Windows Maintenance Automation Script
+Automates cleanup and update tasks in Windows environments.
+
+👉 https://github.com/GusBerZ/windows-maintenance-automation
 
 ---
 
@@ -36,12 +38,28 @@ I’m interested in automation, cybersecurity and process improvement.
 - LGPD (SENAI)
 - Information Security (Fundação Bradesco)
 - Cybersecurity (CISCO)
+  
+---
+
+## 📈 Currently Learning
+- Cybersecurity fundamentals
+- System hardening
+- Automation (scripts)
+- DevOps concepts
 
 ---
 
-## 📈 Goals
-Grow in the IT field focusing on Cybersecurity.
+## 📊 GitHub Stats
+
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GusBerZ&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐ Always learning and improving in technology.
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
+---
+
+⭐ Always learning and improving in technology
